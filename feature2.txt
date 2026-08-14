@@ -1,0 +1,1 @@
+This is the third feature file, closing issue #7.
